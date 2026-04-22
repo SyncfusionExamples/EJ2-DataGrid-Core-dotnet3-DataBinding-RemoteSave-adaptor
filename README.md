@@ -1,4 +1,4 @@
-# EJ2-Grid-Core-dotnet3-DataBinding-RemoteSave-adaptor
+# EJ2 Grid ASP.NET Core 3 Sample with RemoteSave Adaptor
 
 ## Repository Description
 
